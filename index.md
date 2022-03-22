@@ -4,13 +4,13 @@
 [![facebook](https://img.shields.io/badge/facebook-agile--hiyoko--club-%234267B2)](https://www.facebook.com/groups/1462866470644181)
 
 
-## All attendances and cancels
+## All attendees and cancels
 {% include_relative figures/figure_attendances_and_cancels.html %}
 
-## Attendances
+## Attendees
 {% include_relative figures/figure_attendances.html %}
 
-## Total attendances
+## Total attendees
 {% include_relative figures/figure_totals_and_attendances.html %}
 
 ## thx for your attending!! :)
