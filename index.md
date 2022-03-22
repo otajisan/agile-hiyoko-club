@@ -16,4 +16,4 @@
 ## Total attendances
 {% include_relative figures/figure_totals_and_attendances.html %}
 
-thx for your attending!! :tada:
+## thx for your attending!! :)
